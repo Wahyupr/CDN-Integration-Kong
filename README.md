@@ -19,7 +19,7 @@ Docker and Docker Compose must be installed. see documentation [here](https://do
 ```bash
   pip install flask
 ```
-## Run Backend CDN
+## Run Backend CDN and Integration automatic Create Services and Route Kong
 ```bash
   cd backend
   python3 api_cdn.py
