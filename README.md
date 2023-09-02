@@ -25,10 +25,10 @@ Docker and Docker Compose must be installed. see documentation [here](https://do
   python3 api_cdn.py
 ```
 
-
-## 🔗 Links
-
-
-## Documentation
+## Notes
+#### please adjust it for the host of the upstream server in your local area for integration Kong API, For Example in my local  use docker host
+```
+host.docker.internal
+```
 
 
